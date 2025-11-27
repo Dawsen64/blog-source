@@ -11,3 +11,5 @@ themes/**/.git/
 
 # 你的 Obsidian 配置
 .obsidian/
+# 忽略 Windows 自动提交脚本
+*.bat
