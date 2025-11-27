@@ -1058,6 +1058,7 @@ inject:
   bottom:
     # - <script src="xxxx"></script>
     # - <style>#footer-wrap .framework-info { display: none; }</style>
+    - <style>#footer-wrap .framework-info { display: none !important; }</style>
 # CDN Settings
 # Don't modify the following settings unless you know how they work
 CDN:
