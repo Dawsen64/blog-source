@@ -1053,7 +1053,8 @@ css_prefix: true
 inject:
   head:
     # - <link rel="stylesheet" href="/xxx.css">
-    - <style>#footer-wrap .framework-info { display: none; }</style>
+    # - <style>#footer-wrap .framework-info { display: none; }</style>
+    - <style>#footer-wrap .framework-info { display: none !important; }</style>
   bottom:
     # - <script src="xxxx"></script>
     # - <style>#footer-wrap .framework-info { display: none; }</style>
