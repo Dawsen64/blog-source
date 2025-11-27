@@ -56,8 +56,8 @@ social:
 favicon: /img/favicon.png
 
 avatar:
-  img: /img/butterfly-icon.png
-  effect: false
+  img: https://avatars.githubusercontent.com/u/57970377?v=4
+  effect: true
 
 # Disable all banner images
 disable_top_img: false
@@ -263,7 +263,7 @@ footer:
   copyright:
     enable: true
     version: true
-  custom_text:
+  custom_text: '<i class="fab fa-cloudflare" style="color:#F38020"></i> Cloudflare | 除死生大事，余皆是 Warning'
 
 # --------------------------------------
 # Aside Settings
@@ -291,7 +291,7 @@ aside:
       link: https://github.com/xxxxxx
   card_announcement:
     enable: true
-    content: This is my Blog
+    content: 欢迎来到我的博客！
   card_recent_post:
     enable: true
     # If set 0 will show all
@@ -363,7 +363,7 @@ rightside_bottom:
 translate:
   enable: false
   # The text of a button
-  default: 繁
+  default: 簡
   # the language of website (1 - Traditional Chinese/ 2 - Simplified Chinese）
   defaultEncoding: 2
   # Time delay
@@ -1055,7 +1055,7 @@ inject:
     # - <link rel="stylesheet" href="/xxx.css">
   bottom:
     # - <script src="xxxx"></script>
-
+    - <style>#footer-wrap .framework-info { display: none; }</style>
 # CDN Settings
 # Don't modify the following settings unless you know how they work
 CDN:
