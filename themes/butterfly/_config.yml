@@ -261,8 +261,8 @@ footer:
     since: 2025
   # Copyright of theme and framework
   copyright:
-    enable: true
-    version: true
+    enable: false
+    version: false
   custom_text: '<i class="fab fa-cloudflare" style="color:#F38020"></i> Cloudflare | 除死生大事，余皆是 Warning'
 
 # --------------------------------------
