@@ -63,13 +63,12 @@ avatar:
 disable_top_img: false
 
 # If the banner of page not setting, it will show the default_top_img
-default_top_img:
+default_top_img: https://github.com/user-attachments/assets/bd47406f-8873-4d50-b68e-f60ea8959ac2
 
 # The banner image of index page
-index_img: https://haowallpaper.com/link/common/file/previewFileImg/17604611605450112
-
+index_img: https://github.com/user-attachments/assets/bd47406f-8873-4d50-b68e-f60ea8959ac2
 # The banner image of archive page
-archive_img:
+archive_img: https://github.com/user-attachments/assets/bd47406f-8873-4d50-b68e-f60ea8959ac2
 
 # Note: tag page, not tags page
 tag_img:
@@ -92,7 +91,7 @@ footer_img: false
 
 # Website Background
 # Can set it to color or image url
-background: https://private-user-images.githubusercontent.com/57970377/519968132-df25e1e1-bfd1-4774-b6af-d118916ae462.jpg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjQzMDU3MTEsIm5iZiI6MTc2NDMwNTQxMSwicGF0aCI6Ii81Nzk3MDM3Ny81MTk5NjgxMzItZGYyNWUxZTEtYmZkMS00Nzc0LWI2YWYtZDExODkxNmFlNDYyLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTI4VDA0NTAxMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU0NTE3MDAzYjk0YjA4N2EwMTMwYmNkZGYzMDQ5NjJhZTJiMmRhMzMyNmRiY2E2MjY2ZjQyYjY5MDQ0NWZlNGQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.UE9YnrLEYVksqeilREUIzRdn29obBGkzhcX1-Ew-sNs
+background: https://github.com/user-attachments/assets/bd47406f-8873-4d50-b68e-f60ea8959ac2
 
 cover:
   # Disable the cover or not
