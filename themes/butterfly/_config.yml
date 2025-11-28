@@ -66,7 +66,7 @@ disable_top_img: false
 default_top_img:
 
 # The banner image of index page
-index_img:
+index_img: https://haowallpaper.com/link/common/file/previewFileImg/17604611605450112
 
 # The banner image of archive page
 archive_img:
@@ -92,7 +92,7 @@ footer_img: false
 
 # Website Background
 # Can set it to color or image url
-background:
+background: https://private-user-images.githubusercontent.com/57970377/519968132-df25e1e1-bfd1-4774-b6af-d118916ae462.jpg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjQzMDU3MTEsIm5iZiI6MTc2NDMwNTQxMSwicGF0aCI6Ii81Nzk3MDM3Ny81MTk5NjgxMzItZGYyNWUxZTEtYmZkMS00Nzc0LWI2YWYtZDExODkxNmFlNDYyLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTI4VDA0NTAxMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU0NTE3MDAzYjk0YjA4N2EwMTMwYmNkZGYzMDQ5NjJhZTJiMmRhMzMyNmRiY2E2MjY2ZjQyYjY5MDQ0NWZlNGQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.UE9YnrLEYVksqeilREUIzRdn29obBGkzhcX1-Ew-sNs
 
 cover:
   # Disable the cover or not
